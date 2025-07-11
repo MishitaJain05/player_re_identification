@@ -1,0 +1,4 @@
+models/yolov11.pt
+*.mp4
+*.avi
+myenv/
