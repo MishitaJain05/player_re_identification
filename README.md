@@ -10,7 +10,8 @@ Also add all the three videos in videos folder
 
 # 1. Clone the Repository and Navigate:
 
-git clone
+git clone https://github.com/MishitaJain05/player_re_identification.git
+
 cd Player_Identification
 
 # Dependencies - for manual setup - for python 3.10 or higher
